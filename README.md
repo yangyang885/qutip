@@ -1,3 +1,6 @@
+changelog:
+ 2020.5.7 download
+
 QuTiP: Quantum Toolbox in Python
 ================================
 
